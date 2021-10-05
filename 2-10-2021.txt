@@ -1,0 +1,6 @@
+1.eclipse set-up
+2.class and object
+3.Declaration and initialization
+4.object creation and using variables
+5.Conditions if,if-else,switch,itenary
+6.loops for and while

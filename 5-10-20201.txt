@@ -1,0 +1,8 @@
+1.Constructor
+   i.default
+   ii.parameterised
+2.local variable
+3.instance variable
+4.static variable
+6.garbage collector
+7.object count
