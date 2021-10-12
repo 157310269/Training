@@ -1,0 +1,5 @@
+Storing data
+how do you create file in java
+types of data write
+  1.stream writer
+  2.buffer writer
